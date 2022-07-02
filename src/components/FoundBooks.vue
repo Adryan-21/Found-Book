@@ -32,5 +32,6 @@ export default {
   column-gap: 2.8125vw;
   row-gap: 2.8125vw;
   height: 28.572917vw;
+  scrollbar-width: none;
 }
 </style>
